@@ -89,7 +89,7 @@ Please note that the frontend integration assumes the presence of an Ethereum pr
 
 Contract address:
  ```shell
- 0xc25dA80fE6115A9598Ca8A68DB0B479AE0eAbfAF
+ 0x56A24924c3B6A2B2d6DA28039fB0Da609D9d6851
  ```
 ### Built With
 
