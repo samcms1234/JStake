@@ -123,7 +123,7 @@ const Home = () => {
 
         <div class="bg-cover bg-center h-screen w-screen" style={{ backgroundImage: `url(${bg})`}}>
         <div class="container mx-auto p-8 flex flex-col items-center justify-center h-full">
-            <div class="container text-white text-center mt-30">
+            <div class="container text-white text-center mt-10">
                 <h1 class="heading text-5xl font-medium">Transfer, Stake & Store your Tokens</h1>
                 <p class="heading text-xl mt-6">Address: {publicKey}</p>
             </div>
