@@ -1,4 +1,4 @@
-# JStake: The control is with YOU!
+# JStake: Save for your future
 
 This is a simple web application that interacts with a Staking Contract on the Ethereum blockchain. The application allows users to stake tokens, unstake tokens, claim rewards, and transfer tokens to other accounts.
 
